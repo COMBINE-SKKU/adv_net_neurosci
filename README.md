@@ -14,9 +14,9 @@ If you have no background in these areas, or if you have not taken the introduct
 
 This course is built around three goals.
 
-**First**, to read and discuss key papers in brain neural network science in depth, together with a small group of students.
+**First**, to read and discuss key papers in network neuroscience in depth, together with a small group of students.
 
-**Second**, I believe that graduate students spending excessive time on coursework at the expense of their own research is the most unwise outcome. Therefore, my intention is to take as little of your time outside of class as possible. (Whether this intention fully materializes remains to be seen, but I will do my best.)
+**Second**, I believe that graduate students spending excessive time on coursework at the expense of their own research is the most unwise outcome. Therefore, my intention is to take as little of your time outside of class as possible.
 
 **Third**, the core of this course is training you to read **high-quality papers aligned with your own research**, systematically dissect them, and identify key takeaways — with a particular emphasis on **deep-diving into the computational modeling components**.
 
@@ -26,7 +26,7 @@ This course is built around three goals.
 
 ### 3-1. Operating Principles
 
-- This is the **first semester this course has ever been offered**. Policies are not set in stone and may be improved at any point during the semester if a better approach emerges.
+- This is the **first semester this course has ever been offered**. Policies are not set in stone and may be improved depending on your experiences at any point during the semester if a better approach emerges.
 - All paper selection and presentations follow the principle of **serving each student's own research interests**.
 - Papers that are not your assigned presentation paper will be read **during class time on the day of discussion**. We aim to minimize any time commitment outside of class.
 
