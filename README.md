@@ -85,7 +85,7 @@ Throughout the semester, record **one line per week** in a shared Google Sheet: 
 
 - **No midterm or final exam**
 - Evaluation criteria: **Attendance + Class participation + Sincerity of feedback**
-- Out of 7 students: **2 A+ and 2–3 B+** will be awarded.
+- Out of total students: ** Half A+ and another half B+** will be awarded.
 
 ---
 
