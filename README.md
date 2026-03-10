@@ -1,102 +1,102 @@
-# 고급뇌신경망과학 오리엔테이션 이메일 드래프트
+# Advanced Brain Neural Network Science — Orientation Email Draft
 
 ---
 
-**제목:** [고급뇌신경망과학] 수업 오리엔테이션 안내
+**Subject:** [Advanced Brain Neural Network Science] Course Orientation
 
-안녕하세요, 고급뇌신경망과학 수강생 여러분.
+Dear students of Advanced Brain Neural Network Science,
 
-이번 학기 고급뇌신경망과학을 함께하게 되어 반갑습니다. 첫 수업에 앞서, 이 수업이 어떻게 운영될지 미리 안내드립니다. 아래 내용을 꼼꼼히 읽어주시길 바랍니다.
-
----
-
-## 1. 수업 성격 및 수강 전 확인사항
-
-이 수업은 제목 그대로 뇌신경망과학의 **고급 과정**입니다. 따라서 뇌신경망의 생물학적, 인공지능적, 계산과학적 기초지식을 이미 갖추고 있음을 전제로 진행합니다.
-
-만약 이러한 배경지식이 전혀 없거나, 기초 과정인 **뇌신경망과학 개론**을 수강하지 않으신 분께는 이 수업을 권장하지 않습니다. 수강변경이 가능한 기간 내에 신중히 판단해주시기 바랍니다.
+Welcome to the course — I am glad to have you all this semester. Before our first class, I would like to share how the course will be run. Please read the following carefully.
 
 ---
 
-## 2. 수업의 목표
+## 1. Course Nature & Prerequisites
 
-이 수업은 다음 세 가지 목표를 중심으로 운영됩니다.
+As the title suggests, this is an **advanced-level course** in brain neural network science. It therefore assumes that you already have foundational knowledge in the biological, artificial intelligence, and computational science aspects of neural networks.
 
-**첫째**, 소수의 학생들과 함께 뇌신경망과학의 핵심 논문들을 밀도 있게 읽고 논의하는 것입니다.
-
-**둘째**, 대학원생이 수업 때문에 자신의 연구에 지장을 받는 것은 가장 피해야 할 일이라고 생각합니다. 따라서 이 수업에서는 여러분의 수업 외 시간을 최소한으로 가져가려 합니다. (이 의도가 실제로 완벽히 실현될지는 미지수이지만, 최선을 다하겠습니다.)
-
-**셋째**, 그저그런 논문이 아니라 **자신의 연구주제에 맞는 양질의 논문**을 읽히고, 논문을 체계적으로 분해하여 핵심 유의점을 찾아내는 방법을 훈련하는 것이 이 수업의 핵심입니다. 특히 **계산 모델링 파트를 깊이 파는 것**에 중점을 둡니다.
+If you have no background in these areas, or if you have not taken the introductory course **Introduction to Brain Neural Network Science**, this course is not recommended. Please consider changing your registration while the add/drop period is still open.
 
 ---
 
-## 3. 수업 운영 방침
+## 2. Course Objectives
 
-### 3-1. 운영 원칙
+This course is built around three goals.
 
-- 이번 학기가 본 수업의 **첫 번째 개설 학기**입니다. 운영 방침이 아직 확정적이지 않으며, 학기 중 더 나은 방향이 있다면 얼마든지 유연하게 개선해나갈 예정입니다.
-- 모든 논문의 선정과 발표는 **각자의 연구주제에 도움이 되는 방향**을 원칙으로 합니다.
-- 자신이 발표를 맡은 논문 이외의 논문은 **수업 당일 시간 내에** 읽습니다. 수업 외적으로 추가 시간을 쓰는 것을 최소화할 예정입니다.
+**First**, to read and discuss key papers in brain neural network science in depth, together with a small group of students.
 
-### 3-2. 논문 선정 과정
+**Second**, I believe that graduate students spending excessive time on coursework at the expense of their own research is the most unwise outcome. Therefore, my intention is to take as little of your time outside of class as possible. (Whether this intention fully materializes remains to be seen, but I will do my best.)
 
-돌아오는 주 오프라인 강의시간에, 제가 정리한 **뇌신경망과학 핵심 논문 리스트**를 공개합니다. 이 리스트는 주제별로 분류되어 있으며, 그 안에서 자신의 연구주제와 가장 밀접한 논문 **2편**을 찾아 제출하는 것이 1차 목표입니다.
+**Third**, the core of this course is training you to read **high-quality papers aligned with your own research**, systematically dissect them, and identify key takeaways — with a particular emphasis on **deep-diving into the computational modeling components**.
 
-### 3-3. 저널클럽 운영 (3주차~)
+---
 
-3주차부터 매주 저널클럽을 진행합니다. 구체적인 규칙은 다음과 같습니다.
+## 3. Course Policies
 
-#### 발표자 (해당 주차 논문을 고른 학생)
+### 3-1. Operating Principles
 
-- 사전에 **30분 분량의 발표**를 준비합니다.
-- 발표 내용은 발표자의 재량에 맡기되, 다음 요소를 포함해주세요:
-  - 해당 논문의 **핵심 아이디어**
-  - 중요하다고 판단하는 **생물학적/계산 인지신경과학적 결과물(findings)**
-  - **모델링 파트**를 가능한 한 깊이 있게 분석
-  - 가장 중요한 것: **이 논문이 자신의 연구에 어떻게 유용한가**가 발표의 중심에 놓여야 합니다
-- 학기 동안 **총 2번 발표**하며, 2번째 발표 때는 1차 발표자료에 **내용을 추가·확장**하는 방식으로 진행합니다.
-- 2번째 발표의 마지막 부분에는 **"원래 하려고 했던 연구주제를 신경망 모델링을 통해 어떻게 확장할 것인가"**에 대한 구체적 아이디어를 포함해주세요.
-- (참고로, 1차 발표 이후 실제로 시도해본 것이 있다면 2차 발표에 포함하면 더욱 좋습니다. 아이디어를 실행으로 연결하는 과정 자체가 큰 배움입니다.)
+- This is the **first semester this course has ever been offered**. Policies are not set in stone and may be improved at any point during the semester if a better approach emerges.
+- All paper selection and presentations follow the principle of **serving each student's own research interests**.
+- Papers that are not your assigned presentation paper will be read **during class time on the day of discussion**. We aim to minimize any time commitment outside of class.
 
-#### 비발표자 (나머지 학생들)
+### 3-2. Paper Selection Process
 
-**수업 전:**
-- iCampus에 올려놓는 **Google NotebookLM 기반 팟캐스트**(영어/한국어)를 듣고 오세요. 논문의 큰 그림을 잡는 데 도움이 됩니다.
+During next week's in-person session, I will share a curated **list of key papers in brain neural network science**, organized by topic. Your first task is to find **2 papers** from this list that are most closely related to your own research and submit them.
 
-**수업 시간 흐름 (9:30~11:20):**
+### 3-3. Journal Club Format (Starting Week 3)
 
-| 시간 | 내용 |
-|------|------|
-| 9:30 ~ 10:00 (30분) | 논문 읽기 — 랩탑 사용 가능, GPT/Gemini 등 LLM 도구 자유 활용. 자신만의 효율적 읽기법을 찾으세요. |
-| 10:00 ~ 10:30 (30분) | 발표자의 논문 발표 |
-| 10:30 ~ 10:40 (10분) | **구조화된 피드백 작성** (아래 양식 참고) |
-| 10:40 ~ 10:45 (5분) | 쉬는 시간 |
-| 10:45 ~ 11:20 (35분) | 전체 질문 및 토의 → 수업 종료 |
+Starting from Week 3, we will hold a weekly journal club. The specific rules are as follows.
 
-#### 피드백 양식
+#### Presenter (the student who selected the week's paper)
 
-피드백 시간에는 다음 세 가지를 bullet point로 정리하여 발표자에게 전달합니다:
+- Prepare a **30-minute presentation** in advance.
+- The content is at the presenter's discretion, but should include:
+  - The paper's **core ideas**
+  - Any **biological or computational cognitive neuroscience findings** you consider important
+  - A **deep analysis of the modeling component**
+  - Most importantly: **how this paper is useful for your own research** must be the central thread of the presentation
+- You will present **twice during the semester**. For the 2nd presentation, you will **build upon and expand** your 1st presentation materials.
+- The final section of your 2nd presentation must include **concrete ideas for how you would extend your original research through neural network modeling**.
+- (If you have actually tried implementing any ideas since your 1st presentation, you are encouraged to include that as well. The process of connecting ideas to action is itself a valuable learning experience.)
 
-1. **배울 점**: 이 논문/발표에서 자신이 가장 인상 깊었던 아이디어 1가지
-2. **모델링 질문**: 논문의 계산 모델링 접근법에 대한 궁금한 점 1가지
-3. **연구 확장 제안**: 발표자의 연구 확장 아이디어에 대한 구체적 제안 1가지
+#### Non-presenters (all other students)
 
-이 피드백은 단순 형식이 아닌, 발표자에게 실질적으로 도움이 되는 내용을 담아주세요.
+**Before class:**
+- Listen to the **Google NotebookLM-generated podcast** (English/Korean) for the week's paper, which I will upload to iCampus. This will help you grasp the big picture of the paper.
+
+**Class schedule (9:30 AM ~ 11:20 AM):**
+
+| Time | Activity |
+|------|----------|
+| 9:30 ~ 10:00 (30 min) | Paper reading — laptops allowed; feel free to use any LLM tools (GPT, Gemini, etc.). Find your own most efficient reading method. |
+| 10:00 ~ 10:30 (30 min) | Presenter's paper presentation |
+| 10:30 ~ 10:40 (10 min) | **Structured feedback** (see format below) |
+| 10:40 ~ 10:45 (5 min) | Break |
+| 10:45 ~ 11:20 (35 min) | Open Q&A and group discussion → End of class |
+
+#### Feedback Format
+
+During the feedback period, prepare the following three items as bullet points and deliver them to the presenter:
+
+1. **Key Takeaway**: The single most impressive idea you found in the paper/presentation
+2. **Modeling Question**: One question about the paper's computational modeling approach
+3. **Research Extension Suggestion**: One concrete suggestion for the presenter's research expansion ideas
+
+Please make your feedback genuinely helpful to the presenter, not merely a formality.
 
 ### 3-4. Research Connection Log
 
-학기 동안 공유 Google Sheet에 **매주 한 줄씩**, "이번 주 논문에서 내 연구에 적용 가능한 아이디어"를 기록합니다. 별도의 시간이 거의 들지 않으면서, 학기 말에는 자연스럽게 자신의 연구와 읽은 논문들 사이의 연결 지도가 완성됩니다.
+Throughout the semester, record **one line per week** in a shared Google Sheet: "An idea from this week's paper that I can apply to my own research." This requires almost no additional time, yet by the end of the semester, you will have naturally built a connection map between your research and the papers you have read.
 
 ---
 
-## 4. 평가
+## 4. Grading
 
-- **중간고사, 기말고사 없음**
-- 평가 기준: **출석 + 수업 참여도 + 피드백의 진정성**
-- 7명 기준으로 **A+ 2명, B+ 2~3명**을 선정할 예정입니다.
+- **No midterm or final exam**
+- Evaluation criteria: **Attendance + Class participation + Sincerity of feedback**
+- Out of 7 students: **2 A+ and 2–3 B+** will be awarded.
 
 ---
 
-궁금한 점이 있으면 언제든 연락주세요. 의미 있는 한 학기가 되길 바랍니다.
+If you have any questions, please feel free to reach out. I look forward to a meaningful semester together.
 
-감사합니다.
+Thank you.
