@@ -6,7 +6,7 @@
 
 As the title suggests, this is an **advanced-level course** in brain neural network science. It therefore assumes that you already have foundational knowledge in the biological, artificial intelligence, and computational science aspects of neural networks.
 
-If you have no background in these areas, or if you have not taken the introductory course **Introduction to Brain Neural Network Science**, this course is not recommended. Please consider changing your registration while the add/drop period is still open.
+If you have no background in these areas, or if you have not taken the introductory course **Introduction to Network Neuroscience**, this course is not recommended. Please consider changing your registration while the add/drop period is still open.
 
 ---
 
