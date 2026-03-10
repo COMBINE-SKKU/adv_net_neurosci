@@ -1,4 +1,4 @@
-# Advanced Brain Neural Network Science — Orientation Email Draft
+# Advanced Topics in Network Neurocience
 
 ---
 
