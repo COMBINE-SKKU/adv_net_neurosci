@@ -2,8 +2,6 @@
 
 ---
 
-**Subject:** [Advanced Brain Neural Network Science] Course Orientation
-
 ## 1. Course Nature & Prerequisites
 
 As the title suggests, this is an **advanced-level course** in brain neural network science. It therefore assumes that you already have foundational knowledge in the biological, artificial intelligence, and computational science aspects of neural networks.
